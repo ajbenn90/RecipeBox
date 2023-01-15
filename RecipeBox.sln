@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeBox", "RecipeBox\RecipeBox.csproj", "{A40EBB70-8076-4F39-B0D7-89729945502C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngredientScraper", "IngredientScraper\IngredientScraper.csproj", "{CE58A3CF-86A0-4D1A-A4EE-497B01A9030F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A40EBB70-8076-4F39-B0D7-89729945502C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40EBB70-8076-4F39-B0D7-89729945502C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40EBB70-8076-4F39-B0D7-89729945502C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40EBB70-8076-4F39-B0D7-89729945502C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE58A3CF-86A0-4D1A-A4EE-497B01A9030F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE58A3CF-86A0-4D1A-A4EE-497B01A9030F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE58A3CF-86A0-4D1A-A4EE-497B01A9030F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE58A3CF-86A0-4D1A-A4EE-497B01A9030F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BE46F1E-AB19-48AF-B4D8-C4C442479837}
+	EndGlobalSection
+EndGlobal
